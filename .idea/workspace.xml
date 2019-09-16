@@ -19,42 +19,76 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/AEP20193Bim/Builder/Boleto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/AEP20193Bim/Builder/BBBoleto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+              <folding>
+                <element signature="e#352#353#0" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#415#416#0" expanded="true" />
+                <element signature="e#445#446#0" expanded="true" />
+                <element signature="e#477#478#0" expanded="true" />
+                <element signature="e#505#506#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/AEP20193Bim/Builder/BoletoBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/AEP20193Bim/Builder/BBBoletoBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+              <folding>
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#545#546#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/AEP20193Bim/Factory/EmissorCreator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/AEP20193Bim/Factory/Emissor.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/AEP20193Bim/Builder/BuilderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/AEP20193Bim/Factory/EmissorSMS.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/AEP20193Bim/Factory/EmissorEmail.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/AEP20193Bim/Factory/EmissorCreatorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="330">
+              <caret line="15" column="50" lean-forward="true" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#625#626#0" expanded="true" />
-                <element signature="e#718#719#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,6 +104,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -80,6 +117,11 @@
         <option value="$PROJECT_DIR$/src/test/java/AEP20193Bim/Factory/EmissorCreatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/AEP20193Bim/Factory/EmissorCreator.java" />
         <option value="$PROJECT_DIR$/src/main/java/AEP20193Bim/Factory/Emissor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AEP20193Bim/Builder/BBBoleto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AEP20193Bim/Builder/BBBoletoBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AEP20193Bim/Builder/BoletoBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AEP20193Bim/Builder/Boleto.java" />
+        <option value="$PROJECT_DIR$/src/test/java/AEP20193Bim/Builder/BuilderTest.java" />
       </list>
     </option>
   </component>
@@ -90,11 +132,14 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -134,6 +179,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="AEP20193Bim" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AEP20193Bim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AEP20193Bim" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="AEP20193Bim" type="462c0819:PsiDirectoryNode" />
+              <item name="Builder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AEP20193Bim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AEP20193Bim" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="AEP20193Bim" type="462c0819:PsiDirectoryNode" />
               <item name="Factory" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -155,6 +218,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="AEP20193Bim" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AEP20193Bim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AEP20193Bim" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="AEP20193Bim" type="462c0819:PsiDirectoryNode" />
+              <item name="Builder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AEP20193Bim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AEP20193Bim" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="AEP20193Bim" type="462c0819:PsiDirectoryNode" />
               <item name="Factory" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -168,6 +249,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -194,7 +276,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.EmissorCreatorTest">
+  <component name="RunManager" selected="JUnit.BuilderTest.deveCriarUmBBBoleto">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AEP20193Bim.Factory.App" />
       <module name="AEP20193Bim" />
@@ -204,6 +286,22 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuilderTest.deveCriarUmBBBoleto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AEP20193Bim" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AEP20193Bim.Builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AEP20193Bim.Builder" />
+      <option name="MAIN_CLASS_NAME" value="AEP20193Bim.Builder.BuilderTest" />
+      <option name="METHOD_NAME" value="deveCriarUmBBBoleto" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -241,6 +339,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BuilderTest.deveCriarUmBBBoleto" />
         <item itemvalue="Application.App" />
         <item itemvalue="JUnit.EmissorCreatorTest.deveCriarEmissorPorEmailESMS" />
       </list>
@@ -256,29 +355,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568586484951</updated>
-      <workItem from="1568586486141" duration="3825000" />
+      <workItem from="1568586486141" duration="5444000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EmissorCreatorTest_deveCriarEmissorPorEmailESMS - 2019.09.15 at 20h 03m 39s.xml">
-      <configuration name="EmissorCreatorTest.deveCriarEmissorPorEmailESMS" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EmissorCreatorTest - 2019.09.15 at 20h 05m 09s.xml">
-      <configuration name="EmissorCreatorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EmissorCreatorTest - 2019.09.15 at 20h 05m 17s.xml">
-      <configuration name="EmissorCreatorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EmissorCreatorTest - 2019.09.15 at 20h 10m 29s.xml">
-      <configuration name="EmissorCreatorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EmissorCreatorTest - 2019.09.15 at 20h 11m 02s.xml">
-      <configuration name="EmissorCreatorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EmissorCreatorTest - 2019.09.15 at 20h 13m 20s.xml">
-      <configuration name="EmissorCreatorTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="EmissorCreatorTest - 2019.09.15 at 20h 14m 09s.xml">
       <configuration name="EmissorCreatorTest" configurationId="JUnit" />
     </history-entry>
@@ -291,19 +372,38 @@
     <history-entry file="EmissorCreatorTest - 2019.09.15 at 20h 18m 16s.xml">
       <configuration name="EmissorCreatorTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BuilderTest_deveCriarUmBBBoleto - 2019.09.15 at 20h 53m 22s.xml">
+      <configuration name="BuilderTest.deveCriarUmBBBoleto" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BuilderTest_deveCriarUmBBBoleto - 2019.09.15 at 20h 54m 46s.xml">
+      <configuration name="BuilderTest.deveCriarUmBBBoleto" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BuilderTest_deveCriarUmBBBoleto - 2019.09.15 at 20h 55m 12s.xml">
+      <configuration name="BuilderTest.deveCriarUmBBBoleto" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BuilderTest_deveCriarUmBBBoleto - 2019.09.15 at 20h 55m 36s.xml">
+      <configuration name="BuilderTest.deveCriarUmBBBoleto" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BuilderTest_deveCriarUmBBBoleto - 2019.09.15 at 20h 56m 20s.xml">
+      <configuration name="BuilderTest.deveCriarUmBBBoleto" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BuilderTest_deveCriarUmBBBoleto - 2019.09.15 at 20h 56m 35s.xml">
+      <configuration name="BuilderTest.deveCriarUmBBBoleto" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3825000" />
+    <option name="totallyTimeSpent" value="5444000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -313,7 +413,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30010834" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30010834" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -384,25 +484,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/AEP20193Bim/Factory/EmissorCreatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-            <element signature="e#718#719#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AEP20193Bim/Factory/EmissorCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/AEP20193Bim/Factory/EmissorEmail.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -421,6 +502,79 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AEP20193Bim/Builder/BoletoBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AEP20193Bim/Builder/BBBoletoBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AEP20193Bim/Factory/EmissorCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AEP20193Bim/Builder/Boleto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AEP20193Bim/Builder/BBBoleto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AEP20193Bim/Factory/EmissorCreatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="34" column="88" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="88" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AEP20193Bim/Builder/BuilderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="50" lean-forward="true" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
