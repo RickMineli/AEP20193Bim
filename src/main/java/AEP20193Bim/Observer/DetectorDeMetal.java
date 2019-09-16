@@ -2,6 +2,7 @@ package AEP20193Bim.Observer;
 
 public class DetectorDeMetal {
     private DetectorDeMetalObserver observer;
+
     public void detectar(String algo){
 
         if (algo == "metal") {
